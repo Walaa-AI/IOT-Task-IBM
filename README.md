@@ -43,5 +43,28 @@ I Chooses the responses to be an " Option "
 
 
 
+you can control your action 
+I want this action to continue to next step
 
+
+![لقطة الشاشة 2022-08-17 132730](https://user-images.githubusercontent.com/107875617/185096990-1bb517d7-dbcd-43a5-a2ef-146bb8dfccd5.jpg)
+
+
+then select new step to add a Conversation steps
+
+Conditions
+-----------------------------------------------
+press new step and select " with Conditions " option then write what the assistant says for the action and the option
+
+
+![لقطة الشاشة 2022-08-17 122751](https://user-images.githubusercontent.com/107875617/185098183-45922463-103f-4a09-a9e8-b6f81acbd443.jpg)
+
+
+
+
+Preview
+-----------------------------------------------
+last step is saving the assistant and select preveiw to run the assistant 
+
+![1444-01-19-12-49-55](https://user-images.githubusercontent.com/107875617/185098597-33a61caf-2a59-4a65-bf9d-0d6ca1f2a07b.gif)
 
